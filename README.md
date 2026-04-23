@@ -116,7 +116,7 @@ All contracts are verified and publicly readable on Etherscan.
 | Contract | Address | Verified Source |
 |---|---|---|
 | PrivateCreditScore | `0xaa7D007ede04C1c52D7cc95A8357813c394f3af6` | [Etherscan](https://sepolia.etherscan.io/address/0xaa7D007ede04C1c52D7cc95A8357813c394f3af6#code) |
-| ConfidentialPayroll | `0x832E4087cf2a7115adc74137644AdcFb76B3A0Fd` | [Etherscan](https://sepolia.etherscan.io/address/0x832E4087cf2a7115adc74137644AdcFb76B3A0Fd#code) |
+| ConfidentialPayroll | `0xEcf5cD342AcEb87203022F8b3B83ea5CEA7CD659` | [Etherscan](https://sepolia.etherscan.io/address/0xEcf5cD342AcEb87203022F8b3B83ea5CEA7CD659#code) |
 | HiddenPortfolio | `0x4708F4c5Afc818B9cF42c1652666aC67034866ae` | [Etherscan](https://sepolia.etherscan.io/address/0x4708F4c5Afc818B9cF42c1652666aC67034866ae#code) |
 
 ---
